@@ -1,0 +1,37 @@
+
+.main-container{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: 0%;
+  background-attachment: fixed;
+  flex: 1;
+}
+.city{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+
+}
+.search{
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 4px;
+  margin-top: 15%;
+  padding: 10px;
+
+}
+.card{
+  background-color: aquamarine;
+  width:20%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40%;
+  height: 20vh;
+  border: 3px solid white;
+  border-radius: 8px;
+}
